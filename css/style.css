@@ -1170,6 +1170,9 @@ fill: #000;
 border-radius: 4px;
 overflow: hidden;
 }
+.info_map iframe {
+  width: 100%;
+}
 /* ----==========QUESTIONS================== */
 /* ----==========QUESTIONS================== */
 
